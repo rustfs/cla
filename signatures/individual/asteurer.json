@@ -1,0 +1,13 @@
+{
+  "github_login": "asteurer",
+  "signer_type": "individual",
+  "signatures": [
+    {
+      "cla_version": "v1",
+      "signed_at": "2025-12-05T01:23:26Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v1.md",
+      "source_repo": "rustfs/rustfs",
+      "source_pr_number": 991
+    }
+  ]
+}

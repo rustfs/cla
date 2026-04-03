@@ -18,6 +18,8 @@ This repository stores Contributor License Agreement (CLA) documents for RustFS.
 
 - CLA signing and pull request checks are automated with `overtrue/cla-bot`
 - This repository stores the CLA text and versioned documents consumed by that workflow
+- Contributors who had already signed the CLA on the previous external signing platform were imported once into `signatures/individual/*.json`
+- Each imported record uses the contributor's earliest merged pull request in `rustfs/rustfs` as the traceability reference
 
 ## Versioning
 
