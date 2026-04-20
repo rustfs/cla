@@ -1,0 +1,14 @@
+{
+  "github_login": "a22407332filipemonteiro",
+  "signer_type": "individual",
+  "signatures": [
+    {
+      "cla_version": "v1",
+      "signed_at": "2026-04-20T14:08:09Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v1.md",
+      "source_repo": "rustfs/rustfs",
+      "source_pr_number": 2615,
+      "source_comment_id": 4281475832
+    }
+  ]
+}
