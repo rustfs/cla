@@ -1,0 +1,14 @@
+{
+  "github_login": "ramakrishnachilaka",
+  "signer_type": "individual",
+  "signatures": [
+    {
+      "cla_version": "v1",
+      "signed_at": "2026-04-21T03:35:43Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v1.md",
+      "source_repo": "rustfs/rustfs",
+      "source_pr_number": 2626,
+      "source_comment_id": 4285758345
+    }
+  ]
+}
