@@ -1,0 +1,14 @@
+{
+  "github_login": "skandragon",
+  "signer_type": "individual",
+  "signatures": [
+    {
+      "cla_version": "v1",
+      "signed_at": "2026-05-01T20:05:47Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v1.md",
+      "source_repo": "rustfs/rustfs",
+      "source_pr_number": 2769,
+      "source_comment_id": 4361377821
+    }
+  ]
+}
