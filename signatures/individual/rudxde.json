@@ -1,0 +1,14 @@
+{
+  "github_login": "rudxde",
+  "signer_type": "individual",
+  "signatures": [
+    {
+      "cla_version": "v1",
+      "signed_at": "2026-06-02T08:33:22Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v1.md",
+      "source_repo": "rustfs/rustfs",
+      "source_pr_number": 3170,
+      "source_comment_id": 4600331877
+    }
+  ]
+}
