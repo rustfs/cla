@@ -2,7 +2,6 @@
 
 This repository stores Contributor License Agreement (CLA) documents for RustFS.
 
-本仓库用于维护 RustFS 的贡献者许可协议（CLA）文档。
 
 ## Current Document
 
