@@ -8,6 +8,13 @@
       "document_url": "https://github.com/rustfs/cla/blob/main/cla/v1.md",
       "source_repo": "rustfs/rustfs",
       "source_pr_number": 931
+    },
+    {
+      "cla_version": "v2",
+      "signed_at": "2026-07-20T03:56:18Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v2.md",
+      "source_repo": "rustfs/cla",
+      "note": "Bulk-registered as rustfs org member (v1->v2 upgrade)"
     }
   ]
 }
