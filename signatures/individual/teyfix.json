@@ -1,0 +1,14 @@
+{
+  "github_login": "teyfix",
+  "signer_type": "individual",
+  "signatures": [
+    {
+      "cla_version": "v2",
+      "signed_at": "2026-08-28T04:35:41Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v2.md",
+      "source_repo": "rustfs/rustfs",
+      "source_pr_number": 6782,
+      "source_comment_id": 5448487576
+    }
+  ]
+}
