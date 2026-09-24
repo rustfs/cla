@@ -9,6 +9,14 @@
       "source_repo": "rustfs/rustfs",
       "source_pr_number": 2825,
       "source_comment_id": 4385982701
+    },
+    {
+      "cla_version": "v2",
+      "signed_at": "2026-09-24T12:51:09Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v2.md",
+      "source_repo": "rustfs/rustfs",
+      "source_pr_number": 8109,
+      "source_comment_id": 5814466141
     }
   ]
 }
