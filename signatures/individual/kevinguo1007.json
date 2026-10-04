@@ -1,0 +1,14 @@
+{
+  "github_login": "kevinguo1007",
+  "signer_type": "individual",
+  "signatures": [
+    {
+      "cla_version": "v2",
+      "signed_at": "2026-10-04T11:42:27Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v2.md",
+      "source_repo": "rustfs/rustfs",
+      "source_pr_number": 8348,
+      "source_comment_id": 5979565187
+    }
+  ]
+}
