@@ -1,0 +1,13 @@
+{
+  "github_login": "BenjaminFuentesEviden",
+  "signer_type": "individual",
+  "signatures": [
+    {
+      "cla_version": "v2",
+      "signed_at": "2026-08-05T08:32:59Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v2.md",
+      "source_repo": "rustfs/cla",
+      "note": "Signed via pull request"
+    }
+  ]
+}
