@@ -1,0 +1,14 @@
+{
+  "github_login": "joe-conigliaro",
+  "signer_type": "individual",
+  "signatures": [
+    {
+      "cla_version": "v2",
+      "signed_at": "2026-11-11T16:36:23Z",
+      "document_url": "https://github.com/rustfs/cla/blob/main/cla/v2.md",
+      "source_repo": "rustfs/rustfs",
+      "source_pr_number": 9338,
+      "source_comment_id": 6801492989
+    }
+  ]
+}
